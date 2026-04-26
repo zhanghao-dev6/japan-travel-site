@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zhanghao</groupId>
-    <artifactId>j-navigator</artifactId>
+    <artifactId>j-navigator-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>j-navigator</name>
     <description>j-navigator</description>
